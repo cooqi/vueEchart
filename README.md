@@ -1,6 +1,6 @@
 # vuechart
 
-> y
+> vue+echart 一个多图表展示
 
 ## Build Setup
 
